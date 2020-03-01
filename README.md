@@ -8,9 +8,13 @@ Diese Anwendung steht unter der [GNU General Public License v3.0](https://github
 
 ## Status:
 Aktuellste Version = **1.0**
+
 #### Funktionen:
 - Anzeige der Homepage
 
 #### In Planung:
 - Tabs
 - Herunterladen einzelner Seiten
+
+## Download
+- [**Version 1.0**](https://github.com/Truemmerer/LEW/blob/master/linux-einsteiger-wiki-app-1.0.apk)

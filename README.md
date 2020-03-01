@@ -17,4 +17,4 @@ Aktuellste Version = **1.0**
 - Herunterladen einzelner Seiten
 
 ## Download
-- [**Version 1.0**](https://github.com/Truemmerer/LEW/blob/master/linux-einsteiger-wiki-app-1.0.apk)
+- [**Version 1.0**](https://github.com/Truemmerer/LEW/blob/master/app/release/linux-einsteiger-wiki-app-1.0.apk)

@@ -10,7 +10,7 @@ Diese Anwendung steht unter der [GNU General Public License v3.0](https://github
 Aktuellste Version = **1.0**
 
 #### Funktionen:
-- Anzeige der Homepage
+- Anzeige der Homepage in mobiler Version
 
 #### In Planung:
 - Tabs
